@@ -14,6 +14,7 @@ _A Project to teach students how to host a static website online_
 * No known bugs
 
 ## WEBSITE LINK
+https://emzzy241.github.io/Hosting_Video/
 
 ## License
 MIT License
